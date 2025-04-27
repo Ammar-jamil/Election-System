@@ -75,6 +75,7 @@ int main() {
         }
         else {
             cout << "Invalid choice. Please try again.\n";
+            cout << "HEllo";
         }
     }
     return 0;
